@@ -15,7 +15,7 @@ I thrive at the intersection of DevOps, AI, and cybersecurity, ensuring every pr
 ✅ Secure 🔐 | ✅ Performant ⚡ | ✅ Future-proof 🏗️
 
 🔨 Tech Toolbox
-💻 Frontend: Svelte | React | TypeScript | Three.js
+💻 Frontend: Next.js | Svelte | React | TypeScript | Three.js
 🛠 Backend: Node.js | Express | MongoDB | Firebase
 📦 DevOps: Docker | AWS | CI/CD | Vite
 🌍 Cybersecurity: Encryption, Secure Coding, Phishing Awareness
